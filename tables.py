@@ -34,3 +34,5 @@ if __name__ == '__main__':
 
 # to start up --> go to folder containing all files  - spotify_terminal  --> then input in terminal python3 tables.py project.db
 # make sure it is python3 and not python, or else wont work
+
+# to see changes open up database file to see changes reflected.

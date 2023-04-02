@@ -15,7 +15,7 @@ cursor = global_file.cursor
 def main_interface():
     # the main interface of the whole program
     print("*"*61)
-    print("*"*5+" Welcome to our CMPUT291 mini-project1 application "+"*"*5)
+    print("*"*5+" Welcome to my CMPUT291 mini-project1 application "+"*"*5)
     print("*"*61+"\n")
     print("1. Login")
     print("2. Register account")
