@@ -7,6 +7,7 @@ import sys
 connection = global_file.connection
 cursor = global_file.cursor
 path = str(sys.argv[1])
+print(path)
 # Get path from command line argument
 # path = './prj-test.db'
 
@@ -28,3 +29,8 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+
+# to start up --> go to folder containing all files  - spotify_terminal  --> then input in terminal python3 tables.py project.db
+# make sure it is python3 and not python, or else wont work
